@@ -1,2 +1,2 @@
 # quantopian
-quant trading and investing on quantopian
+Run the python notebooks in the quantopian environment.
